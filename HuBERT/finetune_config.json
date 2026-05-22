@@ -1,0 +1,11 @@
+{
+  "workdir": "runs/yoruba_vocoder",
+  "train_manifest": "train_manifest.jsonl",
+  "val_manifest": "val_manifest.jsonl",
+  "n_units": 500,
+  "max_steps": 50000,
+  "batch_size": 16,
+  "lr": 1e-4,
+  "seed": 42,
+  "val_interval": 1000
+}
